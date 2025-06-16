@@ -1,2 +1,2 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=CasioCZ101=tokyonight&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=CasioCZ101&theme=algolia&show_icons=true)](https://github.com/CasioCZ101)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasioCZ101&theme=tokyonight)
