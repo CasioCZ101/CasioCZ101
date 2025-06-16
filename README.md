@@ -1,2 +1,1 @@
-@@ -1,2 +1,2 @@
-![Casio101's Stats](https://github-readme-stats.vercel.app/api?username=CasioCZ101&theme=tokyonight&show_icons=true&hide_border=true&count_private=true
+(https://github-readme-stats.vercel.app/api?username=CasioCZ101&theme=tokyonight&show_icons=true&hide_border=true&count_private=true
