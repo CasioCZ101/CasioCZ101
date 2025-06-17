@@ -12,12 +12,12 @@
 
 Casio CZ 101 é só o nome de um teclado sintetizador japonês, criado em 1984, mesmo ano do meu nascimento. Escolhi esse *alias* por que eu amo synthpop e tecnologias retrô. O Casio CZ101 foi muito utilizado pelos Depeche Mode, Erasure, Yazoo, Moby, Eurythmics entre outros! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&left=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!)
 
 <div>
   <p>💻 Sou formado em Sistemas de Informação pela <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a></p>
-  <p>🎨 Tenho um pós em Design Gráfico e Digital pelo SENAC e uma Extensão em Design de Obejtos </p>
-  <p>📚📖 Depois de 19 anos de formado, voltei a estudar linguagens progração. Atualmente estou estudando C#/Unity (Para jogos) e Java, no Bootcamp back-end do Santander </p>  
+  <p>🎨 Tenho uma pós em Design Gráfico e Digital pelo SENAC e uma Extensão em Design de Obejtos </p>
+  <p>📚📖 Depois de 19 anos de formado, voltei a estudar linguagens de programação. Atualmente estou estudando C#/Unity (Para jogos) e Java, no Bootcamp back-end do Santander </p>  
 </div>
 
 #
