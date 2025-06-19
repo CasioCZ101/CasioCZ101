@@ -1,9 +1,9 @@
 ### 📊 GitHub Stats
 
-<div style="text-align: center;" align="center">
-  <a href="https://github.com/ddemiciano">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasioCZ101&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CasioCZ101&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CasioCZ101&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CasioCZ101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      
 </div>
 
 #
@@ -40,6 +40,9 @@ Casio CZ 101 é só o nome de um teclado sintetizador japonês, criado em 1984, 
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
+
+
+
 
 #
 
