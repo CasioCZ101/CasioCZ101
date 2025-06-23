@@ -12,7 +12,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&left=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!!!)
 
-Casio CZ 101 é só o nome de um teclado sintetizador japonês, criado em 1984, mesmo ano do meu nascimento. Escolhi esse *alias* por que eu amo synthpop e tecnologias retrô. O Casio CZ101 foi muito utilizado pelos Depeche Mode, Erasure, Yazoo, Moby, Eurythmics entre outros! 👋
+Casio CZ 101 é só o nome de um teclado sintetizador japonês, criado em 1984, mesmo ano do meu nascimento. Escolhi esse *alias* por que eu amo synthpop e tecnologias retrô. O Casio CZ101 foi muito utilizado pelo Depeche Mode, Erasure, Yazoo, Moby, Eurythmics entre outros! 👋
 
 <div>
   <p>💻 Sou formado em Sistemas de Informação pela <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a></p>
