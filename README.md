@@ -10,7 +10,7 @@
 
 ## Oi! Meu nome é André. 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&left=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&left=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil)
 
 Casio CZ 101 é só o nome de um teclado sintetizador japonês, criado em 1984, mesmo ano do meu nascimento. Escolhi esse *alias* por que eu amo synthpop e tecnologias retrô. O Casio CZ101 foi muito utilizado pelo Depeche Mode, Erasure, Yazoo, Moby, Eurythmics entre outros! 👋
 
