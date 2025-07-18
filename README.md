@@ -1,3 +1,9 @@
+### 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CasioCZ101&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true"/> 
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph.svg">
@@ -6,13 +12,6 @@
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
-
-### 📊 GitHub Stats
-
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CasioCZ101&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CasioCZ101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>      
-</div>
 
 #
 
