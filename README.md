@@ -2,16 +2,8 @@
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CasioCZ101&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true"/> 
+  <p></p>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 
 #
 
@@ -26,6 +18,14 @@ Casio CZ 101 é só o nome de um teclado sintetizador japonês, criado em 1984, 
   <p>🎨 Tenho uma pós em Design Gráfico e Digital pelo SENAC e uma Extensão em Design de Obejtos </p>
   <p>📚📖 Depois de 19 anos de formado, voltei a estudar linguagens de programação. Atualmente estou estudando C#/Unity (Para jogos) e Java, no Bootcamp back-end do Santander </p>  
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CasioCZ101/CasioCZ101/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 #
 
